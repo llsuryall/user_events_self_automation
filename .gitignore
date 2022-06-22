@@ -1,0 +1,5 @@
+data/.gitkeep
+data/event_log
+data/prev
+/Presentation
+/__pycache__
